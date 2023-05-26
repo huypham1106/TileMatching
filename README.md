@@ -5,7 +5,7 @@
 4. Click Play button to play game
 
 Caution:
-New button: Reset all data
-Open button: load old json file
-Save button: save new json file
-Copy map button: copy json data to text
+-New button: Reset all data
+-Open button: load old json file
+-Save button: save new json file
+-Copy map button: copy json data to text
